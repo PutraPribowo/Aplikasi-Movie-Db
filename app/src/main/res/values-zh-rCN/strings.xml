@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string name="app_name">我的電影是Ui</string>
+    <string name="navigation_drawer_open">打開導航抽屜</string>
+    <string name="navigation_drawer_close">打開導航抽屜</string>
+    <string name="nav_header_title">Putra Pribowo</string>
+    <string name="nav_header_subtitle">putra.pribowo1005@students.unila.ac.id</string>
+    <string name="nav_header_desc">導航標題</string>
+    <string name="action_settings">調整</string>
+    <string name="pengaturan">調整</string>
+    <string name="bahasa">語言</string>
+    <string name="pencari_filem">電影搜索者</string>
+    <string name="sedang_tayang">目前正在播出</string>
+    <string name="akan_datang">會來的</string>
+    <string name="cari_filem">搜索電影......</string>
+    <string name="cari">尋找</string>
+    <string name="judul">標題</string>
+    <string name="tanggal">日期</string>
+    <string name="deskripsi">描述</string>
+    <string name="ikhtisar">摘要</string>
+    <string name="tan">07-12-1997</string>
+    <string name="tanggal_tayang">顯示日期：</string>
+    <string name="detail">電影細節</string>
+    <string name="putra_pribowo">Putra Pribowo</string>
+    <string name="share">散開</string>
+    <string name="favorite">喜歡它</string>
+
+</resources>

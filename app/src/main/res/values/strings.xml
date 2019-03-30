@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">My Movie Ui</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Putra Pribowo</string>
+    <string name="nav_header_subtitle">putra.pribowo1005@students.unila.ac.id</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="pengaturan">Settings</string>
+    <string name="bahasa">Language</string>
+    <string name="pencari_filem">Search Movie</string>
+    <string name="sedang_tayang">Now Playing</string>
+    <string name="akan_datang">Upcoming</string>
+    <string name="cari_filem">Search Movie ...</string>
+    <string name="cari">Search</string>
+    <string name="judul">Title</string>
+    <string name="tanggal">Date</string>
+    <string name="deskripsi">Description</string>
+    <string name="ikhtisar">Overview</string>
+    <string name="tan">07-12-1997</string>
+    <string name="tanggal_tayang">Show Date:</string>
+    <string name="detail">Film Details</string>
+    <string name="putra_pribowo">Putra Pribowo</string>
+    <string name="share">Share</string>
+    <string name="favorite">Favorite</string>
+
+</resources>

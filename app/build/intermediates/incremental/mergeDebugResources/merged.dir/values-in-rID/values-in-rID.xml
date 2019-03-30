@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_settings">Pengaturan</string>
+    <string name="akan_datang">Akan Datang</string>
+    <string name="app_name">My Movie UI</string>
+    <string name="bahasa">Bahasa</string>
+    <string name="cari">Cari</string>
+    <string name="cari_filem">Cari Filem ...</string>
+    <string name="deskripsi">Deskripsi</string>
+    <string name="detail">Detail Filem</string>
+    <string name="favorite">Disuka</string>
+    <string name="ikhtisar">Ikhtisar</string>
+    <string name="judul">Judul</string>
+    <string name="nav_header_desc">Header Navigasi</string>
+    <string name="nav_header_subtitle">putra.pribowo1005@students.unila.ac.id</string>
+    <string name="nav_header_title">Putra Pribowo</string>
+    <string name="navigation_drawer_close">Buka Laci Navigasi</string>
+    <string name="navigation_drawer_open">Buka Laci Navigasi</string>
+    <string name="pencari_filem">Pencari Filem</string>
+    <string name="pengaturan">Pengaturan</string>
+    <string name="putra_pribowo">Putra Pribowo</string>
+    <string name="sedang_tayang">Sedang Tayang</string>
+    <string name="share">Sebar</string>
+    <string name="tan">07-12-1997</string>
+    <string name="tanggal">Tanggal</string>
+    <string name="tanggal_tayang">Tanggal Tayang:</string>
+</resources>

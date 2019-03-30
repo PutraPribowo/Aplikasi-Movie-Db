@@ -1,0 +1,238 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/wingshacker/Unduhan/dicoding expert/Submission  2/MovieUIdanUX/app/src/main/AndroidManifest.xml:2:1-40:12
+INJECTED from /home/wingshacker/Unduhan/dicoding expert/Submission  2/MovieUIdanUX/app/src/main/AndroidManifest.xml:2:1-40:12
+INJECTED from /home/wingshacker/Unduhan/dicoding expert/Submission  2/MovieUIdanUX/app/src/main/AndroidManifest.xml:2:1-40:12
+INJECTED from /home/wingshacker/Unduhan/dicoding expert/Submission  2/MovieUIdanUX/app/src/main/AndroidManifest.xml:2:1-40:12
+MERGED from [com.android.support:design:28.0.0] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/66a18247859d9c29b007132e8a4e005e/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/4c6d2e6c917054fd774086cde87b86b9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/4b31244816690a7d1bf02f9e57e4bcd2/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-v4:28.0.0] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/support-v4-28.0.0.aar/835caca5f7cdccfd460cc49869050a8a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/c70ea93d0d909aa20c1e09973688b0d2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/e65735adeb34bbc50907badc1b03608b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.volley:volley:1.1.0] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/volley-1.1.0.aar/e334c7cc0ace3a2db408a956c29d2ccb/AndroidManifest.xml:2:1-11:12
+MERGED from [com.squareup.picasso:picasso:2.71828] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/127fb039b4cbcf50b2e8925c8c849c9b/AndroidManifest.xml:2:1-14:12
+MERGED from [de.hdodenhof:circleimageview:2.2.0] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/circleimageview-2.2.0.aar/f2f72e1dc4511a9e501bb24f10ce0f25/AndroidManifest.xml:2:1-11:12
+MERGED from [com.github.bumptech.glide:glide:4.8.0] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/glide-4.8.0.aar/5f87d0392de035641e2e0ce30798c5d3/AndroidManifest.xml:2:1-12:12
+MERGED from [com.android.support:support-fragment:28.0.0] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/8f216e8b6781d815a52e3e13c5087875/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/e73492119443a84271142103ba17b1ae/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/95b972016959367e8967c565172be763/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/def7a062fd4942feae60471d14e585bb/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/847ffcd15cf4f92b316f55fcf71c04e9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/transition-28.0.0.aar/29b98b95319fbfc11ce977d8593ef173/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:28.0.0] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0.aar/6061e6b6bac366de65ed2d22693603d2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/454938d633c2ba4773a63d6ad7d1c74f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/6210be92901e90e23a6312580bc21ee2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/4f1d8f1f018024fc7011e264c1c9f6fe/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/c37683b18fc7d422e1f839cb0d46efa6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/c6e7e76eb13ed39779956e7fb8e7cf70/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/8c4f2a608637b114c3ddcbd351a5fc2d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/172ef0817e663d44eeec77a8eeea928b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/83e40967f32eb26b8cee265a57527957/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/e39b9e0579d4caa1e58b81eac9b66fe4/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/94c009e48ca01346a091a0bd4af118f0/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/dd166cfde96df66da4a0279282254bf8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:exifinterface:27.1.0] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/exifinterface-27.1.0.aar/2060ce7e3dcc2a32ab3a1402a8363302/AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/gifdecoder-4.8.0.aar/e2f2108935bc100b07a4fce7a450d00e/AndroidManifest.xml:2:1-11:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/15c7d6a1f957fbcabe3c475e83e45253/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/8656a5e5d033a681acd8151f09ec995b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/3e12cc2b72dcd6e5e1c3542d6af2714a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/864f3b3eb889ea8ab34a3ba49dd2ce54/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/499179654caa21a0097e049aa471b296/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/cc1016c8370f471c61ed3e681b36095b/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/a48382cd81f1a9f5bc81f85cbf6551a7/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/c1beb880a8fddfde9f4ef72732c9f4a8/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/031c193c7bf1fce9b59950c69f09b49b/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/wingshacker/Unduhan/dicoding expert/Submission  2/MovieUIdanUX/app/src/main/AndroidManifest.xml:2:1-40:12
+INJECTED from /home/wingshacker/Unduhan/dicoding expert/Submission  2/MovieUIdanUX/app/src/main/AndroidManifest.xml:2:1-40:12
+INJECTED from /home/wingshacker/Unduhan/dicoding expert/Submission  2/MovieUIdanUX/app/src/main/AndroidManifest.xml:2:1-40:12
+	package
+		ADDED from /home/wingshacker/Unduhan/dicoding expert/Submission  2/MovieUIdanUX/app/src/main/AndroidManifest.xml:3:5-46
+		INJECTED from /home/wingshacker/Unduhan/dicoding expert/Submission  2/MovieUIdanUX/app/src/main/AndroidManifest.xml
+		INJECTED from /home/wingshacker/Unduhan/dicoding expert/Submission  2/MovieUIdanUX/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/wingshacker/Unduhan/dicoding expert/Submission  2/MovieUIdanUX/app/src/main/AndroidManifest.xml
+		ADDED from /home/wingshacker/Unduhan/dicoding expert/Submission  2/MovieUIdanUX/app/src/main/AndroidManifest.xml:2:1-40:12
+		INJECTED from /home/wingshacker/Unduhan/dicoding expert/Submission  2/MovieUIdanUX/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/wingshacker/Unduhan/dicoding expert/Submission  2/MovieUIdanUX/app/src/main/AndroidManifest.xml
+		ADDED from /home/wingshacker/Unduhan/dicoding expert/Submission  2/MovieUIdanUX/app/src/main/AndroidManifest.xml:2:1-40:12
+		INJECTED from /home/wingshacker/Unduhan/dicoding expert/Submission  2/MovieUIdanUX/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/wingshacker/Unduhan/dicoding expert/Submission  2/MovieUIdanUX/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /home/wingshacker/Unduhan/dicoding expert/Submission  2/MovieUIdanUX/app/src/main/AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from /home/wingshacker/Unduhan/dicoding expert/Submission  2/MovieUIdanUX/app/src/main/AndroidManifest.xml:5:22-64
+application
+ADDED from /home/wingshacker/Unduhan/dicoding expert/Submission  2/MovieUIdanUX/app/src/main/AndroidManifest.xml:7:5-37:19
+MERGED from [com.android.support:design:28.0.0] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/66a18247859d9c29b007132e8a4e005e/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/66a18247859d9c29b007132e8a4e005e/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/4b31244816690a7d1bf02f9e57e4bcd2/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/4b31244816690a7d1bf02f9e57e4bcd2/AndroidManifest.xml:9:5-20
+MERGED from [com.android.volley:volley:1.1.0] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/volley-1.1.0.aar/e334c7cc0ace3a2db408a956c29d2ccb/AndroidManifest.xml:9:5-20
+MERGED from [com.android.volley:volley:1.1.0] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/volley-1.1.0.aar/e334c7cc0ace3a2db408a956c29d2ccb/AndroidManifest.xml:9:5-20
+MERGED from [com.squareup.picasso:picasso:2.71828] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/127fb039b4cbcf50b2e8925c8c849c9b/AndroidManifest.xml:7:5-12:19
+MERGED from [com.squareup.picasso:picasso:2.71828] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/127fb039b4cbcf50b2e8925c8c849c9b/AndroidManifest.xml:7:5-12:19
+MERGED from [de.hdodenhof:circleimageview:2.2.0] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/circleimageview-2.2.0.aar/f2f72e1dc4511a9e501bb24f10ce0f25/AndroidManifest.xml:9:5-20
+MERGED from [de.hdodenhof:circleimageview:2.2.0] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/circleimageview-2.2.0.aar/f2f72e1dc4511a9e501bb24f10ce0f25/AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:glide:4.8.0] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/glide-4.8.0.aar/5f87d0392de035641e2e0ce30798c5d3/AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.8.0] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/glide-4.8.0.aar/5f87d0392de035641e2e0ce30798c5d3/AndroidManifest.xml:10:5-20
+MERGED from [com.android.support:support-compat:28.0.0] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/e39b9e0579d4caa1e58b81eac9b66fe4/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/e39b9e0579d4caa1e58b81eac9b66fe4/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/94c009e48ca01346a091a0bd4af118f0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/94c009e48ca01346a091a0bd4af118f0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/gifdecoder-4.8.0.aar/e2f2108935bc100b07a4fce7a450d00e/AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/gifdecoder-4.8.0.aar/e2f2108935bc100b07a4fce7a450d00e/AndroidManifest.xml:9:5-20
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/e39b9e0579d4caa1e58b81eac9b66fe4/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from /home/wingshacker/Unduhan/dicoding expert/Submission  2/MovieUIdanUX/app/src/main/AndroidManifest.xml:12:9-35
+	android:label
+		ADDED from /home/wingshacker/Unduhan/dicoding expert/Submission  2/MovieUIdanUX/app/src/main/AndroidManifest.xml:10:9-41
+	android:roundIcon
+		ADDED from /home/wingshacker/Unduhan/dicoding expert/Submission  2/MovieUIdanUX/app/src/main/AndroidManifest.xml:11:9-43
+	android:icon
+		ADDED from /home/wingshacker/Unduhan/dicoding expert/Submission  2/MovieUIdanUX/app/src/main/AndroidManifest.xml:9:9-38
+	android:allowBackup
+		ADDED from /home/wingshacker/Unduhan/dicoding expert/Submission  2/MovieUIdanUX/app/src/main/AndroidManifest.xml:8:9-35
+	android:theme
+		ADDED from /home/wingshacker/Unduhan/dicoding expert/Submission  2/MovieUIdanUX/app/src/main/AndroidManifest.xml:14:9-40
+	android:usesCleartextTraffic
+		ADDED from /home/wingshacker/Unduhan/dicoding expert/Submission  2/MovieUIdanUX/app/src/main/AndroidManifest.xml:13:9-44
+activity#com.developerputra.movieuidanux.MainActivity
+ADDED from /home/wingshacker/Unduhan/dicoding expert/Submission  2/MovieUIdanUX/app/src/main/AndroidManifest.xml:15:9-21:20
+	android:name
+		ADDED from /home/wingshacker/Unduhan/dicoding expert/Submission  2/MovieUIdanUX/app/src/main/AndroidManifest.xml:15:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/wingshacker/Unduhan/dicoding expert/Submission  2/MovieUIdanUX/app/src/main/AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from /home/wingshacker/Unduhan/dicoding expert/Submission  2/MovieUIdanUX/app/src/main/AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from /home/wingshacker/Unduhan/dicoding expert/Submission  2/MovieUIdanUX/app/src/main/AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/wingshacker/Unduhan/dicoding expert/Submission  2/MovieUIdanUX/app/src/main/AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from /home/wingshacker/Unduhan/dicoding expert/Submission  2/MovieUIdanUX/app/src/main/AndroidManifest.xml:19:27-74
+activity#com.developerputra.movieuidanux.Detail
+ADDED from /home/wingshacker/Unduhan/dicoding expert/Submission  2/MovieUIdanUX/app/src/main/AndroidManifest.xml:22:9-28:20
+	android:parentActivityName
+		ADDED from /home/wingshacker/Unduhan/dicoding expert/Submission  2/MovieUIdanUX/app/src/main/AndroidManifest.xml:24:13-52
+	android:label
+		ADDED from /home/wingshacker/Unduhan/dicoding expert/Submission  2/MovieUIdanUX/app/src/main/AndroidManifest.xml:23:13-43
+	android:name
+		ADDED from /home/wingshacker/Unduhan/dicoding expert/Submission  2/MovieUIdanUX/app/src/main/AndroidManifest.xml:22:19-41
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from /home/wingshacker/Unduhan/dicoding expert/Submission  2/MovieUIdanUX/app/src/main/AndroidManifest.xml:25:13-27:45
+	android:value
+		ADDED from /home/wingshacker/Unduhan/dicoding expert/Submission  2/MovieUIdanUX/app/src/main/AndroidManifest.xml:27:17-43
+	android:name
+		ADDED from /home/wingshacker/Unduhan/dicoding expert/Submission  2/MovieUIdanUX/app/src/main/AndroidManifest.xml:26:17-63
+activity#com.developerputra.movieuidanux.Pencarian
+ADDED from /home/wingshacker/Unduhan/dicoding expert/Submission  2/MovieUIdanUX/app/src/main/AndroidManifest.xml:30:9-36:20
+	android:parentActivityName
+		ADDED from /home/wingshacker/Unduhan/dicoding expert/Submission  2/MovieUIdanUX/app/src/main/AndroidManifest.xml:32:13-55
+	android:label
+		ADDED from /home/wingshacker/Unduhan/dicoding expert/Submission  2/MovieUIdanUX/app/src/main/AndroidManifest.xml:31:13-50
+	android:name
+		ADDED from /home/wingshacker/Unduhan/dicoding expert/Submission  2/MovieUIdanUX/app/src/main/AndroidManifest.xml:30:19-44
+uses-sdk
+INJECTED from /home/wingshacker/Unduhan/dicoding expert/Submission  2/MovieUIdanUX/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/wingshacker/Unduhan/dicoding expert/Submission  2/MovieUIdanUX/app/src/main/AndroidManifest.xml
+INJECTED from /home/wingshacker/Unduhan/dicoding expert/Submission  2/MovieUIdanUX/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:design:28.0.0] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/66a18247859d9c29b007132e8a4e005e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/66a18247859d9c29b007132e8a4e005e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/4c6d2e6c917054fd774086cde87b86b9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/4c6d2e6c917054fd774086cde87b86b9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/4b31244816690a7d1bf02f9e57e4bcd2/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/4b31244816690a7d1bf02f9e57e4bcd2/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v4:28.0.0] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/support-v4-28.0.0.aar/835caca5f7cdccfd460cc49869050a8a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/support-v4-28.0.0.aar/835caca5f7cdccfd460cc49869050a8a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/c70ea93d0d909aa20c1e09973688b0d2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/c70ea93d0d909aa20c1e09973688b0d2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/e65735adeb34bbc50907badc1b03608b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/e65735adeb34bbc50907badc1b03608b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.volley:volley:1.1.0] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/volley-1.1.0.aar/e334c7cc0ace3a2db408a956c29d2ccb/AndroidManifest.xml:7:5-43
+MERGED from [com.android.volley:volley:1.1.0] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/volley-1.1.0.aar/e334c7cc0ace3a2db408a956c29d2ccb/AndroidManifest.xml:7:5-43
+MERGED from [com.squareup.picasso:picasso:2.71828] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/127fb039b4cbcf50b2e8925c8c849c9b/AndroidManifest.xml:5:5-44
+MERGED from [com.squareup.picasso:picasso:2.71828] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/127fb039b4cbcf50b2e8925c8c849c9b/AndroidManifest.xml:5:5-44
+MERGED from [de.hdodenhof:circleimageview:2.2.0] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/circleimageview-2.2.0.aar/f2f72e1dc4511a9e501bb24f10ce0f25/AndroidManifest.xml:5:5-7:41
+MERGED from [de.hdodenhof:circleimageview:2.2.0] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/circleimageview-2.2.0.aar/f2f72e1dc4511a9e501bb24f10ce0f25/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:glide:4.8.0] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/glide-4.8.0.aar/5f87d0392de035641e2e0ce30798c5d3/AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.8.0] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/glide-4.8.0.aar/5f87d0392de035641e2e0ce30798c5d3/AndroidManifest.xml:6:5-8:41
+MERGED from [com.android.support:support-fragment:28.0.0] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/8f216e8b6781d815a52e3e13c5087875/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/8f216e8b6781d815a52e3e13c5087875/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/e73492119443a84271142103ba17b1ae/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/e73492119443a84271142103ba17b1ae/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/95b972016959367e8967c565172be763/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/95b972016959367e8967c565172be763/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/def7a062fd4942feae60471d14e585bb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/def7a062fd4942feae60471d14e585bb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/847ffcd15cf4f92b316f55fcf71c04e9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/847ffcd15cf4f92b316f55fcf71c04e9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/transition-28.0.0.aar/29b98b95319fbfc11ce977d8593ef173/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/transition-28.0.0.aar/29b98b95319fbfc11ce977d8593ef173/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0.aar/6061e6b6bac366de65ed2d22693603d2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0.aar/6061e6b6bac366de65ed2d22693603d2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/454938d633c2ba4773a63d6ad7d1c74f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/454938d633c2ba4773a63d6ad7d1c74f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/6210be92901e90e23a6312580bc21ee2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/6210be92901e90e23a6312580bc21ee2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/4f1d8f1f018024fc7011e264c1c9f6fe/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/4f1d8f1f018024fc7011e264c1c9f6fe/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/c37683b18fc7d422e1f839cb0d46efa6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/c37683b18fc7d422e1f839cb0d46efa6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/c6e7e76eb13ed39779956e7fb8e7cf70/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/c6e7e76eb13ed39779956e7fb8e7cf70/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/8c4f2a608637b114c3ddcbd351a5fc2d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/8c4f2a608637b114c3ddcbd351a5fc2d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/172ef0817e663d44eeec77a8eeea928b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/172ef0817e663d44eeec77a8eeea928b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/83e40967f32eb26b8cee265a57527957/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/83e40967f32eb26b8cee265a57527957/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/e39b9e0579d4caa1e58b81eac9b66fe4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/e39b9e0579d4caa1e58b81eac9b66fe4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/94c009e48ca01346a091a0bd4af118f0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/94c009e48ca01346a091a0bd4af118f0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/dd166cfde96df66da4a0279282254bf8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/dd166cfde96df66da4a0279282254bf8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:exifinterface:27.1.0] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/exifinterface-27.1.0.aar/2060ce7e3dcc2a32ab3a1402a8363302/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:exifinterface:27.1.0] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/exifinterface-27.1.0.aar/2060ce7e3dcc2a32ab3a1402a8363302/AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/gifdecoder-4.8.0.aar/e2f2108935bc100b07a4fce7a450d00e/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/gifdecoder-4.8.0.aar/e2f2108935bc100b07a4fce7a450d00e/AndroidManifest.xml:5:5-7:41
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/15c7d6a1f957fbcabe3c475e83e45253/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/15c7d6a1f957fbcabe3c475e83e45253/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/8656a5e5d033a681acd8151f09ec995b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/8656a5e5d033a681acd8151f09ec995b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/3e12cc2b72dcd6e5e1c3542d6af2714a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/3e12cc2b72dcd6e5e1c3542d6af2714a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/864f3b3eb889ea8ab34a3ba49dd2ce54/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/864f3b3eb889ea8ab34a3ba49dd2ce54/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/499179654caa21a0097e049aa471b296/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/499179654caa21a0097e049aa471b296/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/cc1016c8370f471c61ed3e681b36095b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/cc1016c8370f471c61ed3e681b36095b/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/a48382cd81f1a9f5bc81f85cbf6551a7/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/a48382cd81f1a9f5bc81f85cbf6551a7/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/c1beb880a8fddfde9f4ef72732c9f4a8/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/c1beb880a8fddfde9f4ef72732c9f4a8/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/031c193c7bf1fce9b59950c69f09b49b/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/031c193c7bf1fce9b59950c69f09b49b/AndroidManifest.xml:20:5-44
+INJECTED from /home/wingshacker/Unduhan/dicoding expert/Submission  2/MovieUIdanUX/app/src/main/AndroidManifest.xml
+INJECTED from /home/wingshacker/Unduhan/dicoding expert/Submission  2/MovieUIdanUX/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/wingshacker/Unduhan/dicoding expert/Submission  2/MovieUIdanUX/app/src/main/AndroidManifest.xml
+		ADDED from /home/wingshacker/Unduhan/dicoding expert/Submission  2/MovieUIdanUX/app/src/main/AndroidManifest.xml
+		INJECTED from /home/wingshacker/Unduhan/dicoding expert/Submission  2/MovieUIdanUX/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/wingshacker/Unduhan/dicoding expert/Submission  2/MovieUIdanUX/app/src/main/AndroidManifest.xml
+		ADDED from /home/wingshacker/Unduhan/dicoding expert/Submission  2/MovieUIdanUX/app/src/main/AndroidManifest.xml
+		INJECTED from /home/wingshacker/Unduhan/dicoding expert/Submission  2/MovieUIdanUX/app/src/main/AndroidManifest.xml
+provider#com.squareup.picasso.PicassoProvider
+ADDED from [com.squareup.picasso:picasso:2.71828] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/127fb039b4cbcf50b2e8925c8c849c9b/AndroidManifest.xml:8:9-11:40
+	android:authorities
+		ADDED from [com.squareup.picasso:picasso:2.71828] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/127fb039b4cbcf50b2e8925c8c849c9b/AndroidManifest.xml:10:13-72
+	android:exported
+		ADDED from [com.squareup.picasso:picasso:2.71828] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/127fb039b4cbcf50b2e8925c8c849c9b/AndroidManifest.xml:11:13-37
+	android:name
+		ADDED from [com.squareup.picasso:picasso:2.71828] /home/wingshacker/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/127fb039b4cbcf50b2e8925c8c849c9b/AndroidManifest.xml:9:13-64
